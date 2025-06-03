@@ -1,6 +1,6 @@
 # 💰 Java Bank System
 
-A simple command-line banking system written in Java. Built as a first-year Cacttus Education to practice object-oriented programming, file handling, and user interaction.
+A simple command-line banking system written in Java. Built as a first-year student at Cacttus Education to practice object-oriented programming, file handling, and user interaction.
 
 ---
 
